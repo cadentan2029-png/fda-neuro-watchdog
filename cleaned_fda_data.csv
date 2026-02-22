@@ -1,0 +1,369 @@
+Date Received,Patient Sex,Patient Age,Seriousness,Adverse Reactions
+2020-01-01,Female,84,Unknown,"Aggression, Suspiciousness"
+2020-01-01,Male,28812,Unknown,"Tubulointerstitial nephritis, Chronic kidney disease"
+2020-01-01,Female,76,Unknown,Urinary tract infection
+2020-01-02,Male,76,Unknown,Gingival bleeding
+2020-01-02,Male,85,Unknown,Hepatic function abnormal
+2020-01-02,Female,87,Unknown,"Dehydration, Hypernatraemia"
+2020-01-02,Female,68,Unknown,Electrocardiogram QT prolonged
+2020-01-03,Male,84,Unknown,"Rhinorrhoea, Anosmia"
+2020-01-03,Male,78,Unknown,"Electrocardiogram abnormal, Gastrooesophageal reflux disease, Overdose"
+2020-01-03,Female,83,Unknown,"Hip fracture, Product dose omission, Asthenia, Hip fracture, Urinary tract infection, Confusional state, Fall"
+2020-01-03,Female,86,Unknown,"Bradycardia, Electrocardiogram QT prolonged, Toxicity to various agents"
+2020-01-03,Female,84,Unknown,"Asthenia, Anaemia"
+2020-01-03,Female,84,Unknown,"Suspiciousness, Aggression"
+2020-01-03,Male,77,Unknown,"Hyperpyrexia, Acute kidney injury"
+2020-01-03,Female,77,Unknown,Alopecia
+2020-01-04,Female,84,Unknown,"Aggression, Suspiciousness"
+2020-01-06,Female,77,Unknown,Alopecia
+2020-01-06,Male,79,Unknown,"Staring, Seizure"
+2020-01-06,Male,88,Unknown,Angioedema
+2020-01-06,Female,77,Unknown,"Pain in extremity, Weight decreased, Asthenia"
+2020-01-06,Male,40,Unknown,Pleurothotonus
+2020-01-06,Male,90,Unknown,"Haemoglobin decreased, Depression"
+2020-01-06,Female,71,Unknown,"Sedation, Dyskinesia, Fatigue"
+2020-01-06,Male,72,Unknown,Product dose omission
+2020-01-06,Female,86,Unknown,"Electrocardiogram QT prolonged, Bradycardia"
+2020-01-07,Female,63,Unknown,"Progressive supranuclear palsy, Loss of personal independence in daily activities"
+2020-01-07,Female,86,Unknown,"Electrocardiogram QT prolonged, Bradycardia"
+2020-01-06,Female,78,Unknown,Cardiac failure congestive
+2020-01-07,Female,81,Unknown,"Precancerous skin lesion, Abdominal abscess, Abdominal wall cyst, Kidney infection, Pelvic abscess, Basal cell carcinoma, Haemophilus infection, Intestinal obstruction, Dyspnoea at rest, Dementia, Spinal cord disorder, Lower respiratory tract infection, Thermal burn, Erythema, Fall, Abdominal pain upper, Skin discolouration, Skin lesion, COVID-19, Peripheral swelling, Productive cough, Road traffic accident, Sputum discoloured, Urinary tract infection, Blood pressure increased, Wound, Dyspnoea exertional, Breath sounds abnormal, Rales, Ligament sprain, Gait disturbance, Tremor, Oral contusion, Contusion, Pain, Memory impairment, Discomfort, Spinal pain, Sinusitis, Poor quality sleep, Diarrhoea, Abdominal pain, Malaise, Vomiting, Bronchitis, Back pain, Lethargy, Dyspnoea, Upper respiratory tract infection, Fatigue, Nausea, Tooth fracture, Arthralgia, Myalgia"
+2020-01-07,Male,77,Unknown,"Urticaria, Pruritus"
+2020-01-08,Female,86,Unknown,"Bradycardia, Electrocardiogram QT prolonged"
+2020-01-08,Female,84,Unknown,"Suspiciousness, Aggression"
+2020-01-08,Male,70,Unknown,"Rash, Diarrhoea, Rectal haemorrhage"
+2020-01-08,Female,75,Unknown,Death
+2020-01-09,Female,83,Unknown,"Accidental overdose, Hyperhidrosis, Diarrhoea, Hypotension"
+2020-01-09,Male,40,Unknown,"Disease progression, Myoclonus, Seizure, Pleurothotonus"
+2020-01-09,Female,84,Unknown,Death
+2020-01-09,Male,78,Unknown,"Bradycardia, Orthostatic hypotension"
+2020-01-09,Male,78,Unknown,General physical health deterioration
+2020-01-09,Female,86,Unknown,"Fatigue, Syncope, Headache, General physical health deterioration, Dehydration, Dizziness"
+2020-01-09,Male,70,Unknown,"Diarrhoea, Rectal haemorrhage, Rash"
+2020-01-09,Female,75,Unknown,Acute kidney injury
+2020-01-09,Female,72,Unknown,"Vomiting, Muscle twitching"
+2020-01-09,Male,83,Unknown,"Bradycardia, Atrioventricular block first degree, Diarrhoea, Drug interaction"
+2020-01-09,Female,83,Unknown,"Hypotension, Accidental overdose, Diarrhoea, Hyperhidrosis"
+2020-01-09,Female,77,Unknown,"Dementia Alzheimer^s type, Therapeutic response unexpected"
+2020-01-09,Male,78,Unknown,"Bradycardia, Orthostatic hypotension"
+2020-01-09,Male,84,Unknown,"Gastritis, Abdominal pain upper, Device dislocation"
+2020-01-09,Male,78,Unknown,"Bradycardia, Orthostatic hypotension"
+2020-01-10,Female,75,Unknown,"Drug interaction, Sinus bradycardia"
+2020-01-10,Female,77,Unknown,Death
+2020-01-10,Male,70,Unknown,Deep vein thrombosis
+2020-01-13,Male,68,Unknown,Immune system disorder
+2020-01-13,Female,75,Unknown,"Sinus bradycardia, Drug interaction, Hypotension"
+2020-01-13,Female,75,Unknown,"Hypotension, Sinus bradycardia, Lethargy, Drug interaction"
+2020-01-13,Female,74,Unknown,"Hypersomnia, Immobile, Fall"
+2020-01-10,Male,87,Unknown,"Diarrhoea, Pneumonia, Influenza"
+2020-01-13,Male,86,Unknown,"Blood pressure increased, Hip fracture, Fall"
+2020-01-14,Female,86,Unknown,"Bradycardia, Electrocardiogram QT prolonged, Poisoning deliberate"
+2020-01-14,Male,86,Unknown,"Rash, Pyrexia"
+2020-01-14,Female,86,Unknown,"Electrocardiogram QT prolonged, Poisoning deliberate, Bradycardia"
+2020-01-14,Male,80,Unknown,"Headache, Dementia Alzheimer^s type, Cough, Weight decreased, Amnesia, Pneumonia, Haemoptysis, Diarrhoea"
+2020-01-14,Female,75,Unknown,"Sinus bradycardia, Hypotension"
+2020-01-15,Female,85,Unknown,"Fracture, Pemphigoid"
+2020-01-15,Female,75,Unknown,"Sinus bradycardia, Hypotension"
+2020-01-15,Female,61,Unknown,Completed suicide
+2020-01-15,Female,80,Unknown,"Epilepsy, Dyspnoea, Muscle rigidity"
+2020-01-16,Male,82,Unknown,"Dysphagia, Pneumonia"
+2020-01-16,Female,83,Unknown,"Diarrhoea, Medication error, Hypotension, Hyperhidrosis, Accidental overdose"
+2020-01-16,Female,86,Unknown,"Electrocardiogram QT prolonged, Toxicity to various agents, Bradycardia"
+2020-01-16,Female,84,Unknown,"Aggression, Suspiciousness"
+2020-01-16,Male,70,Unknown,"Diarrhoea, Rectal haemorrhage, Rash"
+2020-01-16,Female,82,Unknown,"Conjunctival haemorrhage, Fall, Epistaxis"
+2020-01-16,Female,61,Unknown,Completed suicide
+2020-01-16,Female,75,Unknown,Sinus bradycardia
+2020-01-17,Female,84,Unknown,"Aggression, Suspiciousness"
+2020-01-17,Male,82,Unknown,Death
+2020-01-17,Male,71,Unknown,"Gastrointestinal ulcer, Product prescribing error"
+2020-01-17,Male,85,Unknown,"Altered state of consciousness, Coma scale abnormal, Hallucination, visual, Delirium"
+2020-01-17,Male,74,Unknown,Death
+2020-01-17,Female,75,Unknown,"Hypotension, Sinus bradycardia, Drug interaction"
+2020-01-18,Female,86,Unknown,"Bradycardia, Electrocardiogram QT prolonged"
+2020-01-18,Female,64,Unknown,"Dementia, Drug ineffective"
+2020-01-19,Female,72,Unknown,Death
+2020-01-19,Female,84,Unknown,Death
+2020-01-20,Female,75,Unknown,"Sinus bradycardia, Hypotension, Drug interaction, Lethargy"
+2020-01-21,Female,75,Unknown,"Sinus bradycardia, Hypotension, Drug interaction"
+2020-01-21,Female,82,Unknown,"Bradycardia, Syncope, Malaise"
+2020-01-21,Female,88,Unknown,"Product storage error, Deep vein thrombosis"
+2020-01-21,Male,78,Unknown,"Orthostatic hypotension, Bradycardia"
+2020-01-21,Female,78,Unknown,"Syncope, Bradycardia"
+2020-01-22,Female,92,Unknown,"Eye irritation, Erythema of eyelid"
+2020-01-21,Male,86,Unknown,Death
+2020-01-22,Female,59,Unknown,Femoral neck fracture
+2020-01-22,Male,69,Unknown,Death
+2020-01-22,Female,81,Unknown,Thrombosis
+2020-01-22,Female,70,Unknown,"Orthostatic hypotension, Dizziness"
+2020-01-22,Male,60,Unknown,"Eye operation, Hypoaesthesia, Abdominal pain lower, Limb discomfort, Arthralgia, Unevaluable event, Flatulence, Cerebrovascular accident, Giant cell arteritis, Headache, Device occlusion, Device dislocation, Muscle fatigue, Medical device pain, Abdominal distension, Blood pressure increased, Abdominal pain, Insomnia, Eye pain, Asthenia, Abdominal discomfort"
+2020-01-23,Female,61,Unknown,Completed suicide
+2020-01-23,Female,75,Unknown,"Drug interaction, Sinus bradycardia, Lethargy, Electrocardiogram PR prolongation, Hypotension"
+2020-01-23,Female,56,Unknown,"Abdominal pain upper, Abnormal faeces, Neuralgia"
+2020-01-23,Male,66,Unknown,"Blood pressure increased, Muscle spasms, Pruritus, Headache, Nausea, Oedema, Rash, Blood pressure decreased, Muscular weakness, Blood glucose increased, Dizziness, Fatigue"
+2020-01-24,Female,51,Unknown,Dementia
+2020-01-24,Female,61,Unknown,Completed suicide
+2020-01-24,Male,80,Unknown,"Asthenia, Loss of consciousness, Thrombosis, Fall"
+2020-01-24,Male,72,Unknown,"Volvulus, Colostomy, Hypotension, Stoma site discharge, Stoma site erythema, Stoma site infection, Abdominal pain, Hypertension"
+2020-01-24,Male,70,Unknown,"Prostate cancer, Dementia"
+2020-01-24,Female,68,Unknown,Death
+2020-01-24,Male,74,Unknown,"Hospice care, Feeling abnormal, Weight decreased, Hallucination"
+2020-01-25,Female,79,Unknown,"Muscle atrophy, Fall, Posture abnormal"
+2020-01-26,Female,77,Unknown,"Hip fracture, Staphylococcal infection"
+2020-01-26,Female,47,Unknown,Vision blurred
+2020-01-27,Male,65,Unknown,"Myalgia, Injection site erythema, Influenza like illness"
+2020-01-27,Female,86,Unknown,"Body temperature decreased, Drug ineffective, Fall, Pain, Bradycardia, Orthostatic hypotension, Fatigue, Malaise, Asthenia, Pain in extremity, Dizziness, Gait disturbance, Blood pressure increased"
+2020-01-27,Female,82,Unknown,"Vomiting, Drug abuse, Dyspnoea"
+2020-01-27,Female,84,Unknown,"Fall, Electrocardiogram QT prolonged"
+2020-01-27,Male,83,Unknown,"Renal impairment, Ejection fraction decreased, Dyspnoea, Hepatic enzyme increased, Mental status changes, Cardiac failure, Hepatomegaly, Oedema peripheral, Cystitis, Asthenia, Hepatocellular injury, Ascites"
+2020-01-27,Female,70,Unknown,"Dizziness, Orthostatic hypotension"
+2020-01-27,Male,80,Unknown,Thrombocytopenia
+2020-01-27,Male,70,Unknown,"Renal failure, Blood pressure abnormal"
+2020-01-27,Male,74,Unknown,"Social avoidant behaviour, Lethargy, Death, Glassy eyes, Drooling"
+2020-01-27,Male,84,Unknown,"Drug ineffective, Epistaxis"
+2020-01-27,Female,91,Unknown,Decreased appetite
+2020-01-28,Male,69,Unknown,"Loss of consciousness, Seizure, Unresponsive to stimuli, Fall, Hallucination, Skin laceration, Fall"
+2020-01-28,Male,87,Unknown,"Blood disorder, Skin discolouration, Localised infection, Memory impairment, Back disorder"
+2020-01-28,Female,61,Unknown,Suspected suicide
+2020-01-28,Male,63,Unknown,"Spinal compression fracture, Contusion, Depressed level of consciousness, Consciousness fluctuating, Dehydration, Blood pressure increased, Cerebral infarction, Dysarthria, Hypernatraemia, Dysphagia"
+2020-01-29,Female,83,Unknown,"Hyperhidrosis, Hypotension, Accidental overdose, Diarrhoea"
+2020-01-29,Male,70,Unknown,"Rash, Diarrhoea, Rectal haemorrhage"
+2020-01-29,Male,83,Unknown,"Activated partial thromboplastin time prolonged, Aspartate aminotransferase increased, Blood lactate dehydrogenase increased, Alanine aminotransferase increased, International normalised ratio increased, Hepatocellular injury"
+2020-01-28,Male,86,Unknown,Death
+2020-01-29,Female,84,Unknown,"Electrocardiogram QT prolonged, Fall"
+2020-01-29,Female,83,Unknown,"Fall, Bradycardia"
+2020-01-29,Female,83,Unknown,"Spinal cord compression, Spinal stenosis, Fall, Foot fracture, Influenza, Dementia, Ocular hyperaemia, Abdominal hernia, Humerus fracture, COVID-19, Product dose omission issue, Body temperature abnormal, Illness, Blood pressure systolic abnormal, Blood pressure increased, Hypertension, Back pain"
+2020-01-29,Male,91,Unknown,Hepatic function abnormal
+2020-01-30,Female,74,Unknown,"Somnolence, Urinary incontinence"
+2020-01-30,Female,61,Unknown,Completed suicide
+2020-01-30,Female,86,Unknown,"Electrocardiogram QT prolonged, Bradycardia, Poisoning deliberate"
+2020-01-30,Male,56,Unknown,"Hypertension, Hypothyroidism, Inflammation, Infusion related reaction, Anaphylactic reaction, Arthralgia, Diplopia, Musculoskeletal stiffness, Rash, Dyspnoea, Osteoporosis, Pharyngeal swelling, Rheumatoid arthritis"
+2020-01-30,Female,84,Unknown,"Fall, Electrocardiogram QT prolonged"
+2020-01-30,Female,72,Unknown,Death
+2020-01-30,Female,75,Unknown,"Drug interaction, Hypotension, Sinus bradycardia"
+2020-01-30,Male,78,Unknown,"Fall, Asthenia, Urinary tract infection"
+2020-01-31,Female,83,Unknown,"Fall, Orthostatic hypotension"
+2020-01-31,Male,87,Unknown,"Pneumonia, Infection, Benign prostatic hyperplasia, Urinary retention, Pyrexia, Dementia"
+2020-01-31,Female,75,Unknown,"Drug interaction, Sinus bradycardia, Overdose"
+2020-01-31,Female,86,Unknown,Erythema multiforme
+2020-01-31,Male,90,Unknown,Death
+2020-01-31,Male,83,Unknown,"Off label use, Pneumonia"
+2020-01-31,Female,67,Unknown,"Intervertebral disc degeneration, Bronchitis chronic, Factor V Leiden mutation, Hypertension, Gastrooesophageal reflux disease, Chronic obstructive pulmonary disease, Depression, Fall, Ankle fracture, Osteoarthritis, Fibromyalgia, Tremor, Neck pain, Hyperlipidaemia, Diverticulum, Sleep apnoea syndrome, Urinary tract infection, Drug hypersensitivity, Migraine, Anxiety, Chronic kidney disease, Asthma, Oral herpes, Carpal tunnel syndrome, Tinnitus"
+2020-02-02,Female,86,Unknown,"Bradycardia, Toxicity to various agents, Electrocardiogram QT prolonged"
+2020-02-03,Female,55,Unknown,"Bladder dilatation, Urinary retention, Underdose, Drug intolerance, Sedation"
+2020-02-03,Female,76,Unknown,"Prescribed underdose, Urinary tract infection, Bedridden, Movement disorder, Abnormal loss of weight, Death"
+2020-02-03,Female,40,Unknown,"Condition aggravated, Feeling abnormal, Weight increased, Muscle twitching, Feeling abnormal, Fatigue, Road traffic accident, Multiple sclerosis relapse, Pain in extremity, Eye disorder, Memory impairment, Muscle spasms"
+2020-02-03,Male,56,Unknown,"Anaphylactic reaction, Arthralgia, Pharyngeal swelling, Diplopia, Inflammation, Dyspnoea, Musculoskeletal stiffness, Rheumatoid arthritis, Osteoporosis, Rash, Hypertension, Hypothyroidism"
+2020-02-03,Male,73,Unknown,"Confusional state, Depressed level of consciousness, Gait disturbance, Disturbance in attention, Hypersomnia"
+2020-01-17,Female,64,Unknown,"Bladder operation, Malignant neoplasm progression"
+2020-01-31,Male,85,Unknown,"Diarrhoea, Near death experience"
+2020-02-03,Male,92,Unknown,"Peripheral arterial occlusive disease, Acute myocardial infarction, Off label use"
+2020-02-03,Female,82,Unknown,"Vomiting, Drug abuse, Dyspnoea"
+2020-02-04,Female,84,Unknown,"Fall, Electrocardiogram QT prolonged"
+2020-02-04,Male,86,Unknown,Death
+2020-02-04,Male,68,Unknown,"Condition aggravated, Sexually inappropriate behaviour, Drug intolerance"
+2020-02-04,Male,73,Unknown,Death
+2020-02-04,Female,84,Unknown,"Electrocardiogram QT prolonged, Fall"
+2020-02-04,Female,978,Unknown,"Cerebrovascular accident, Acute kidney injury, Chronic kidney disease"
+2020-02-04,Male,40,Unknown,"Pleurothotonus, Myoclonus, Seizure, Disease progression"
+2020-02-04,Female,86,Unknown,Erythema multiforme
+2020-02-05,Male,71,Unknown,Eye infection
+2020-02-05,Male,85,Unknown,"Product dose omission issue, Unevaluable event, Peripheral coldness, Back pain"
+2020-02-05,Female,61,Unknown,Completed suicide
+2020-02-05,Male,14,Unknown,"Bradycardia, Drooling, Mental status changes, Vomiting, Somnolence, Accidental exposure to product, Diarrhoea"
+2020-02-05,Female,83,Unknown,"Iritis, Eye inflammation, Vision blurred, Visual acuity reduced, Vitritis, Vitreous floaters, Vitreous haze"
+2020-02-05,Female,86,Unknown,"Hypersensitivity, Tardive dyskinesia"
+2020-02-05,Female,75,Unknown,"Pollakiuria, Dementia Alzheimer^s type, Headache"
+2020-02-06,Male,81,Unknown,"Dementia, Parkinson^s disease, Terminal agitation"
+2020-02-05,Female,90,Unknown,"Death, Off label use, Diarrhoea, Nightmare"
+2020-02-06,Female,75,Unknown,"Drug interaction, Sinus bradycardia, Lethargy, Hypotension, Electrocardiogram PR prolongation"
+2020-02-06,Female,68,Unknown,Myocardial infarction
+2020-02-06,Female,76,Unknown,"Acute kidney injury, Hyperkalaemia"
+2020-02-07,Male,67,Unknown,"Limb discomfort, Product use in unapproved indication, Product dose omission issue, Off label use, Pain, Vision blurred, Hypoacusis"
+2020-02-07,Female,78,Unknown,Dementia
+2020-02-06,Male,65,Unknown,"Loss of consciousness, Blood potassium decreased"
+2020-02-07,Female,78,Unknown,"Coronavirus infection, Abdominal pain, Constipation, Urinary retention, Dizziness, Hypotension, Frequent bowel movements"
+2020-02-07,Female,80,Unknown,"Off label use, Drug eruption, Delirium"
+2020-02-07,Female,84,Unknown,"Fall, Electrocardiogram QT prolonged"
+2020-02-07,Male,71,Unknown,"Product prescribing error, Gastrointestinal ulcer"
+2020-02-07,Female,84,Unknown,"Fall, Electrocardiogram QT prolonged"
+2020-02-07,Female,71,Unknown,Acute myocardial infarction
+2020-02-10,Male,74,Unknown,"Hallucination, visual, Fall, Underdose, Hypersomnia, Lower limb fracture, Hip fracture"
+2020-02-10,Female,82,Unknown,"Vomiting, Drug abuse, Dyspnoea"
+2020-02-10,Female,84,Unknown,"Fall, Electrocardiogram QT prolonged"
+2020-02-10,Female,73,Unknown,"Sopor, Overdose, Drug abuse"
+2020-02-10,Female,81,Unknown,"Lactic acidosis, Urinary tract infection"
+2020-02-10,Male,75,Unknown,"Device issue, Subcutaneous abscess, Post procedural complication, Surgery, Urinary tract infection, Rehabilitation therapy"
+2020-02-10,Male,78,Unknown,General physical health deterioration
+2020-02-10,Male,79,Unknown,Chronic respiratory failure
+2020-02-11,Female,63,Unknown,"Death, Hospitalisation"
+2020-02-11,Male,62,Unknown,"Nightmare, Memory impairment, Pain"
+2020-02-10,Female,63,Unknown,"Nausea, Presyncope, Insomnia, Dizziness, Paralysis, Decreased appetite"
+2020-02-11,Female,88,Unknown,"Acute myocardial infarction, Haematuria, Nephrolithiasis, Haematuria, Epilepsy, Pneumonia"
+2020-02-11,Female,69,Unknown,Seizure
+2020-02-11,Male,66,Unknown,"Therapeutic product effect incomplete, Off label use, Product administered to patient of inappropriate age"
+2020-02-12,Female,81,Unknown,"Lactic acidosis, Urinary tract infection"
+2020-02-12,Male,79,Unknown,"Dementia, Wrong technique in product usage process"
+2020-02-12,Female,60,Unknown,Drug ineffective
+2020-02-12,Female,82,Unknown,"Vomiting, Dyspnoea, Drug abuse"
+2020-02-12,Male,79,Unknown,"Suicidal ideation, Completed suicide"
+2020-02-12,Female,75,Unknown,"Hypotension, Electrocardiogram PR prolongation, Lethargy, Sinus bradycardia, Drug interaction"
+2020-02-12,Female,82,Unknown,"Dizziness, Fall, Hallucinations, mixed"
+2020-02-12,Female,84,Unknown,"Asthenia, Anaemia"
+2020-02-12,Female,75,Unknown,Fracture
+2020-02-12,Male,78,Unknown,"Mucosal haemorrhage, Erythema, Rash, Skin lesion, Skin swelling, Dermatitis allergic, Stevens-Johnson syndrome, Rash macular"
+2020-02-12,Male,82,Unknown,"Dementia Alzheimer^s type, Parkinson^s disease, Off label use"
+2020-02-13,Female,58,Unknown,"Product dose omission, Dry eye"
+2020-02-13,Female,77,Unknown,"Illusion, Hallucination, Confusional state"
+2020-02-13,Male,85,Unknown,Interstitial lung disease
+2020-02-13,Female,88,Unknown,"Seizure, Respiratory arrest"
+2020-02-14,Female,64,Unknown,Death
+2020-02-14,Male,79,Unknown,"Sudden death, Suicidal ideation, Off label use"
+2020-02-14,Female,91,Unknown,Liver function test abnormal
+2020-02-14,Male,78,Unknown,Stevens-Johnson syndrome
+2020-02-15,Female,81,Unknown,"Urinary tract infection, Lactic acidosis"
+2020-02-15,Male,78,Unknown,"Skin lesion, Rash, Skin swelling, Stevens-Johnson syndrome, Dermatitis allergic, Rash macular, Erythema, Mucosal haemorrhage"
+2020-02-17,Male,78,Unknown,"Rash macular, Skin lesion, Skin swelling, Rash, Stevens-Johnson syndrome, Mucosal haemorrhage, Erythema, Dermatitis allergic"
+2020-02-17,Female,66,Unknown,"Headache, Rash pruritic, Central nervous system lesion"
+2020-02-17,Male,78,Unknown,"Skin lesion, Dermatitis allergic, Rash, Erythema, Mucosal haemorrhage, Rash macular, Stevens-Johnson syndrome, Skin swelling"
+2020-02-17,Male,79,Unknown,"Suicidal ideation, Sudden death, Completed suicide"
+2020-02-18,Female,69,Unknown,Seizure
+2020-02-18,Male,78,Unknown,"Rash macular, Dermatitis allergic, Stevens-Johnson syndrome, Skin lesion, Mucosal haemorrhage, Rash, Skin swelling, Erythema"
+2020-02-18,Male,79,Unknown,"Sudden death, Suicidal ideation"
+2020-02-18,Female,86,Unknown,"Poisoning deliberate, Electrocardiogram QT prolonged, Bradycardia"
+2020-02-15,Female,61,Unknown,"Tachycardia, Dyspnoea, Autoimmune thyroiditis"
+2020-02-18,Female,76,Unknown,"Pain, Nausea"
+2020-02-18,Female,82,Unknown,"Overdose, Dyspnoea, Vomiting"
+2020-02-19,Female,73,Unknown,"Cerebrovascular accident, Ulcer haemorrhage, Intentional product use issue"
+2020-02-19,Male,79,Unknown,"Completed suicide, Suicidal ideation"
+2020-02-19,Female,84,Unknown,"Aggression, Suspiciousness"
+2020-02-18,Female,64,Unknown,"Chronic obstructive pulmonary disease, Joint swelling, Balance disorder, Visual impairment, Dysarthria, Cardiac arrest, Gait disturbance"
+2020-02-19,Male,18338,Unknown,"Nephrogenic anaemia, Hyperparathyroidism secondary, Acute kidney injury, Chronic kidney disease, Renal failure, End stage renal disease, Abdominal pain upper"
+2020-02-19,Male,80,Unknown,"Haematuria, Death"
+2020-02-19,Male,81,Unknown,Ventricular tachycardia
+2020-02-19,Male,79,Unknown,"Sudden death, Suicidal ideation, Completed suicide"
+2020-02-20,Male,79,Unknown,"Suicidal ideation, Sudden death, Completed suicide"
+2020-02-20,Male,78,Unknown,"Dermatitis allergic, Stevens-Johnson syndrome, Mucosal haemorrhage, Skin lesion, Erythema, Rash, Skin swelling, Rash macular"
+2020-02-20,Male,94,Unknown,Death
+2020-02-20,Male,88,Unknown,Death
+2020-02-20,Female,86,Unknown,"Electrocardiogram QT prolonged, Bradycardia, Poisoning deliberate"
+2020-02-20,Female,77,Unknown,"Coordination abnormal, Insomnia, Motor dysfunction, Parkinsonian gait"
+2020-02-21,Female,87,Unknown,"Dehydration, Blood pressure decreased, Condition aggravated, Dyspnoea, Aplastic anaemia, Renal impairment, Oedema peripheral, Paroxysmal nocturnal haemoglobinuria, Gastroenteritis, General physical health deterioration, Death, Decreased appetite"
+2020-02-21,Female,79,Unknown,Death
+2020-02-23,Female,77,Unknown,"Confusional state, Abdominal discomfort, Dizziness, Diarrhoea, Eye pain, Fatigue"
+2020-02-24,Unknown,76,Unknown,"Upper gastrointestinal haemorrhage, Death, Shock haemorrhagic"
+2020-02-24,Male,83,Unknown,"Restlessness, Gait disturbance"
+2020-02-24,Female,88,Unknown,"Death, Blood pressure increased, Somnolence, Muscular weakness, Urinary tract infection, Urinary tract infection, Oedema peripheral, Constipation, Gait disturbance"
+2020-02-24,Female,75,Unknown,"Off label use, Drug interaction, Sinus bradycardia, Hypotension"
+2020-02-24,Male,81,Unknown,Ventricular tachycardia
+2020-02-10,Female,86,Unknown,Pneumonia
+2020-02-24,Female,68,Unknown,"Device malfunction, Psoriatic arthropathy, Psoriasis"
+2020-02-24,Female,72,Unknown,"Abdominal distension, Impaired gastric emptying"
+2020-02-24,Female,83,Unknown,"Accidental overdose, Diarrhoea, Hypotension, Hyperhidrosis"
+2020-02-25,Male,81,Unknown,Ventricular tachycardia
+2020-02-25,Female,85,Unknown,Upper respiratory tract infection
+2020-02-25,Female,77,Unknown,"Dizziness, Confusional state, Abdominal discomfort, Eye pain, Fatigue, Diarrhoea"
+2020-02-25,Female,66,Unknown,"Incontinence, Dementia, Unresponsive to stimuli, Epilepsy, Dizziness, Mood altered, Agitation, Loss of consciousness, Fall"
+2020-02-25,Female,62,Unknown,"Fatigue, Nausea, Dizziness"
+2020-02-25,Male,78,Unknown,"Bradycardia, Orthostatic hypotension"
+2020-02-25,Male,70,Unknown,Loss of consciousness
+2020-02-26,Female,85,Unknown,Osteonecrosis of jaw
+2020-02-26,Female,72,Unknown,"Impaired gastric emptying, Abdominal distension"
+2020-02-26,Female,76,Unknown,"Cognitive disorder, Respiratory alkalosis, Stupor, Extrapyramidal disorder, Generalised tonic-clonic seizure, Hyperventilation, Cerebral disorder, Rhabdomyolysis, Tremor"
+2020-02-26,Female,77,Unknown,"Eye pain, Abdominal discomfort, Confusional state, Diarrhoea, Dizziness, Fatigue"
+2020-02-26,Female,81,Unknown,"Wrong technique in product usage process, Off label use, Incorrect dose administered, Product administered at inappropriate site, Product use in unapproved indication, Inappropriate schedule of product administration"
+2020-02-26,Male,81,Unknown,Ventricular tachycardia
+2020-02-26,Male,81,Unknown,Ventricular tachycardia
+2020-02-26,Female,72,Unknown,Impaired gastric emptying
+2020-02-27,Female,72,Unknown,"Impaired gastric emptying, Abdominal distension"
+2020-02-27,Female,72,Unknown,Impaired gastric emptying
+2020-02-27,Male,79,Unknown,"Sudden death, Completed suicide, Suicidal ideation"
+2020-02-27,Female,72,Unknown,"Abdominal pain, Off label use, Gastric dilatation, Agitation, Impaired gastric emptying, Vomiting"
+2020-02-27,Female,88,Unknown,"Bradycardia, Syncope"
+2020-02-27,Female,72,Unknown,"Impaired gastric emptying, Agitation, Abdominal pain, Vomiting"
+2020-02-28,Female,77,Unknown,"Confusional state, Eye pain, Abdominal discomfort, Diarrhoea, Fatigue, Dizziness"
+2020-02-27,Male,68,Unknown,"Device issue, Fall, Stoma site discharge, Parkinson^s disease, Fine motor skill dysfunction, Asthenia, Loss of personal independence in daily activities, Weight decreased, Nephrolithiasis, Pain, Fine motor skill dysfunction, Decreased appetite, Nausea, Diarrhoea haemorrhagic, Gait disturbance, Wrong technique in device usage process"
+2020-02-28,Female,77,Unknown,"Abdominal discomfort, Dizziness, Diarrhoea, Confusional state, Fatigue, Eye pain"
+2020-02-28,Male,78,Unknown,"Stevens-Johnson syndrome, Mucosal haemorrhage, Rash, Rash macular, Skin lesion, Skin swelling, Erythema, Dermatitis allergic"
+2020-02-28,Female,72,Unknown,"Abdominal distension, Impaired gastric emptying"
+2020-02-28,Female,72,Unknown,"Impaired gastric emptying, Abdominal distension"
+2020-02-28,Female,61,Unknown,"Toxicity to various agents, Completed suicide"
+2020-02-25,Male,78,Unknown,"Erythema, Rash macular, Dermatitis allergic, Rash, Skin lesion, Mucosal haemorrhage, Skin swelling, Stevens-Johnson syndrome"
+2020-02-28,Female,70,Unknown,"Orthostatic hypotension, Dizziness"
+2020-02-28,Female,69,Unknown,"Fall, Therapeutic response shortened"
+2020-02-29,Male,81,Unknown,Ventricular tachycardia
+2020-02-29,Female,77,Unknown,"Dizziness, Fatigue, Eye pain, Abdominal discomfort, Confusional state, Diarrhoea"
+2020-02-28,Male,87,Unknown,"Oxygen saturation decreased, Bradycardia, Hyperhidrosis, Anal incontinence, Syncope, Shock"
+2020-02-28,Female,85,Unknown,Haematemesis
+2020-03-01,Male,78,Unknown,"Skin mass, Scratch, Fall, Wound, Asthenia, Parkinson^s disease, Mobility decreased, Unevaluable event, Loss of consciousness, Body height decreased, Weight decreased, On and off phenomenon, Posture abnormal, Movement disorder, Contusion, Feeding disorder, Fall, Pneumonia, Decubitus ulcer, Cellulitis, Dysphagia, Rib fracture"
+2020-03-01,Female,87,Unknown,Death
+2020-03-02,Male,89,Unknown,Thrombosis
+2020-03-02,Female,76,Unknown,"Irritability, Abnormal behaviour, Product substitution issue, Confusional state"
+2020-03-02,Female,72,Unknown,"Impaired gastric emptying, Abdominal distension"
+2020-03-02,Male,89,Unknown,"Dyspnoea, Vomiting, Haematemesis"
+2020-02-28,Female,44,Unknown,Hypotension
+2020-02-18,Female,63,Unknown,"Nausea, Confusional state, Vomiting, Balance disorder, Ear pain, Dizziness, Hypoacusis"
+2020-02-28,Female,84,Unknown,"Anal incontinence, Cardiac stress test, Urinary incontinence, Asthenia, Procedural complication, Syncope, Loss of consciousness, Anxiety, Pallor"
+2020-03-02,Female,72,Unknown,Impaired gastric emptying
+2020-03-02,Male,71,Unknown,"Gastrointestinal ulcer, Product prescribing error"
+2020-03-03,Female,87,Unknown,"Subarachnoid haemorrhage, Fall"
+2020-03-03,Male,79,Unknown,"Hallucination, olfactory, Hallucination, auditory"
+2020-03-03,Male,14,Unknown,"Diarrhoea, Gait disturbance, Rash macular, Accidental exposure to product by child, Nodal rhythm, Heart rate increased, Presyncope, Somnolence, Vomiting, Agitation, Drooling, Bradycardia, Irritability"
+2020-03-03,Male,82,Unknown,"Abdominal pain, Hypotension, Dysuria, Rash, Decreased appetite, Internal haemorrhage, Haematemesis, Anal incontinence"
+2020-03-03,Female,81,Unknown,"Gait disturbance, Muscle rigidity, Tremor"
+2020-03-03,Male,95,Unknown,General physical health deterioration
+2020-03-03,Female,80,Unknown,Cholinergic syndrome
+2020-03-03,Female,85,Unknown,Haematemesis
+2020-03-03,Female,80,Unknown,Cholinergic syndrome
+2020-03-03,Female,80,Unknown,Cholinergic syndrome
+2020-02-20,Male,89,Unknown,Death
+2020-03-03,Male,14,Unknown,"Crying, Bradycardia, Vomiting, Accidental exposure to product, Agitation, Fall, Somnolence, Gait disturbance, Diarrhoea, Drooling, Irritability, Rash erythematous"
+2020-03-03,Female,84,Unknown,"Feeling hot, Skin tightness, Rash"
+2020-03-03,Male,73,Unknown,"Goitre, Eyelid oedema, Myasthenia gravis, Myositis, Dyspnoea, Myocarditis"
+2020-03-04,Female,72,Unknown,"Abdominal distension, Impaired gastric emptying"
+2020-03-03,Female,87,Unknown,"Fall, Subarachnoid haemorrhage"
+2020-03-03,Male,88,Unknown,"Prescribed overdose, Dizziness"
+2020-03-03,Female,78,Unknown,"Product dispensing error, Hypokinesia"
+2020-03-04,Female,83,Unknown,"Femoral neck fracture, Fall, Syncope, Electrocardiogram QT prolonged, Torsade de pointes"
+2020-03-03,Female,68,Unknown,On and off phenomenon
+2020-03-03,Female,73,Unknown,Drug ineffective
+2020-03-03,Male,85,Unknown,"Insomnia, Muscle spasms, Nightmare, Nausea, Headache"
+2020-03-03,Male,72,Unknown,"Hypokinesia, Somnolence, Adverse event"
+2020-03-03,Male,71,Unknown,"Dyskinesia, Freezing phenomenon, Anxiety, Somnolence"
+2020-03-03,Female,76,Unknown,Weight increased
+2020-03-03,Male,81,Unknown,"Therapeutic product effect variable, Product use complaint"
+2020-03-03,Female,81,Unknown,"Asthenia, Fall, Drug ineffective, Balance disorder"
+2020-03-03,Male,85,Unknown,"Confusional state, Feeling abnormal, Balance disorder"
+2020-03-03,Female,80,Unknown,"Hyperhidrosis, Tremor, Hot flush, Dizziness, Hallucination"
+2020-03-04,Female,61,Unknown,Completed suicide
+2020-03-04,Male,81,Unknown,"Renal transplant, Pneumonia, Influenza, Malaise"
+2020-03-04,Female,85,Unknown,"Presyncope, Bradycardia, Syncope"
+2020-03-04,Male,75,Unknown,"Circulatory collapse, Bradycardia"
+2020-03-04,Female,84,Unknown,"Fall, Electrocardiogram QT prolonged"
+2020-03-04,Female,82,Unknown,"Drug abuse, Vomiting, Intentional product misuse, Dyspnoea"
+2020-03-04,Female,82,Unknown,"Heart rate irregular, Therapeutic product effect decreased, Back pain, Drug resistance, Atrial fibrillation, Loss of consciousness, Ligament sprain"
+2020-03-05,Female,72,Unknown,"Impaired gastric emptying, Abdominal distension"
+2020-03-05,Male,72,Unknown,"Sepsis, Perforation, Gastrointestinal disorder"
+2020-03-05,Male,40,Unknown,"Pleurothotonus, Seizure, Disease progression, Myoclonus"
+2020-03-05,Female,83,Unknown,Nocturia
+2020-03-05,Male,74,Unknown,"Influenza, Urinary retention, Urinary tract infection, Dehydration"
+2020-03-05,Female,72,Unknown,Impaired gastric emptying
+2020-03-05,Female,89,Unknown,"Urinary incontinence, Fall"
+2020-03-05,Female,95,Unknown,No adverse event
+2020-03-06,Male,81,Unknown,Ventricular tachycardia
+2020-03-06,Female,77,Unknown,"Diarrhoea, Fatigue, Dizziness, Eye pain, Confusional state, Abdominal discomfort"
+2020-03-06,Female,87,Unknown,"Subarachnoid haemorrhage, Off label use, Fall"
+2020-03-06,Female,93,Unknown,"Cardiac arrest, Torsade de pointes"
+2020-03-06,Male,87,Unknown,"General physical health deterioration, Vomiting, Haematemesis"
+2020-03-06,Female,77,Unknown,"Pain in extremity, Asthenia, Weight decreased"
+2020-03-07,Female,85,Unknown,"Presyncope, Syncope, Bradycardia"
+2020-03-07,Male,75,Unknown,"Bradycardia, Circulatory collapse"
+2020-03-08,Female,80,Unknown,"Cerebrovascular accident, Device issue, Wrong technique in device usage process, Device dislocation"
+2020-03-07,Male,75,Unknown,"Bradycardia, Circulatory collapse"
+2020-03-09,Male,75,Unknown,"Bradycardia, Circulatory collapse"
+2020-03-09,Male,81,Unknown,Ventricular tachycardia
+2020-03-09,Female,72,Unknown,"Respiratory arrest, Cardiac arrest, Death"
+2020-02-28,Male,82,Unknown,Respiratory failure
+2020-03-09,Female,78,Unknown,"Decreased appetite, Hypoglycaemia, Somnolence, Asthenia"
+2020-03-09,Female,88,Unknown,"Death, Urinary tract infection, Dehydration, Multiple fractures, Neoplasm malignant, Fall"
+2020-03-10,Female,87,Unknown,Subarachnoid haemorrhage
