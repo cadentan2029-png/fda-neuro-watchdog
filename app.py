@@ -8,8 +8,13 @@ st.set_page_config(page_title="FDA Neuro-Watchdog V2", layout="wide")
 # --- DATA LOADING ---
 @st.cache_data
 def load_data():
-    # Only loading the raw cleaned data so we can dynamically filter it
-    return pd.read_csv('cleaned_fda_data.csv')
+    df = pd.read_csv('cleaned_fda_data.csv')
+    
+    # Fix the immortal patients: Convert days to years for anything over 130
+    df.loc[df['Patient Age'] > 130, 'Patient Age'] = df['Patient Age'] / 365
+    df['Patient Age'] = df['Patient Age'].astype(int)
+    
+    return df
 
 df_clean = load_data()
 
@@ -51,6 +56,7 @@ if total_reports > 0:
     # Recalculate Top Reactions based on the filtered age range
     reactions_series = df_filtered['Adverse Reactions'].astype(str).str.split(', ').explode().str.strip()
     top_reactions = reactions_series.value_counts().head(10).reset_index()
+    top_reactions['Count'] = pd.to_numeric(top_reactions['Count'])
     top_reactions.columns = ['Reaction', 'Count']
     top_event = top_reactions['Reaction'].iloc[0] if not top_reactions.empty else "N/A"
 
