@@ -6,16 +6,6 @@ import requests
 # --- PAGE CONFIG ---
 st.set_page_config(page_title="FDA Neuro-Watchdog V3", layout="wide")
 
-# --- DRUG DATABASE ---
-NEURO_DRUGS = [
-    "Donepezil",    # Alzheimer's
-    "Memantine",    # Alzheimer's
-    "Levodopa",     # Parkinson's
-    "Lithium",      # Bipolar Disorder
-    "Fluoxetine",   # Depression (Prozac)
-    "Aripiprazole"  # Schizophrenia / Bipolar (Abilify)
-]
-
 # --- API & DATA PROCESSING ENGINE ---
 @st.cache_data(show_spinner=False)
 def fetch_and_clean_fda_data(drug_name):
@@ -69,7 +59,11 @@ st.sidebar.title("Neuro-Watchdog")
 st.sidebar.info("Live openFDA API Post-Market Surveillance")
 
 st.sidebar.header("Select Target")
-selected_drug = st.sidebar.selectbox("Neuro-Pharmaceutical", NEURO_DRUGS)
+st.sidebar.header("Search Database")
+selected_drug = st.sidebar.text_input(
+    "Enter any drug name to query the FDA:", 
+    value="Lithium"
+).strip()
 
 # Fetch Data Live
 with st.spinner(f"Querying FDA Database for {selected_drug}..."):
