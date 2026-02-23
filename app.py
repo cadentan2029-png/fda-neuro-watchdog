@@ -10,8 +10,11 @@ st.set_page_config(page_title="FDA Neuro-Watchdog V2", layout="wide")
 def load_data():
     df = pd.read_csv('cleaned_fda_data.csv')
     
-    # Fix the immortal patients: Convert days to years for anything over 130
+    # Fix the immortal patients: temporarily convert to float to allow division
+    df['Patient Age'] = df['Patient Age'].astype(float)
     df.loc[df['Patient Age'] > 130, 'Patient Age'] = df['Patient Age'] / 365
+    
+    # Convert back to strict integer
     df['Patient Age'] = df['Patient Age'].astype(int)
     
     return df
@@ -56,8 +59,11 @@ if total_reports > 0:
     # Recalculate Top Reactions based on the filtered age range
     reactions_series = df_filtered['Adverse Reactions'].astype(str).str.split(', ').explode().str.strip()
     top_reactions = reactions_series.value_counts().head(10).reset_index()
-    top_reactions['Count'] = pd.to_numeric(top_reactions['Count'])
+    
+    # Rename columns FIRST, then force numeric
     top_reactions.columns = ['Reaction', 'Count']
+    top_reactions['Count'] = pd.to_numeric(top_reactions['Count'])
+    
     top_event = top_reactions['Reaction'].iloc[0] if not top_reactions.empty else "N/A"
 
     # Calculate Mortality Rate
